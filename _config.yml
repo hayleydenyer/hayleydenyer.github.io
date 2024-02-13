@@ -17,6 +17,8 @@ navigation:
   path: /experience
 - title: publications
   path: /publications
+- title: speaking-engagements
+  path: /speaking-engagements
 
 social:
 - title: twitter
