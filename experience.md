@@ -27,6 +27,7 @@ Pilot study exploring the impact of prematurity on social understanding, social 
 
 The objective assessment of sleep quality and daytime behaviours in children with neurodevelopmental disorders during placement year
 
+* * *
 
 ## Education
 
