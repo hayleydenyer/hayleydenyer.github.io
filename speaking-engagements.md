@@ -1,5 +1,5 @@
 
-## Experience
+## Speaking Engagements
 
 [back to home](./index.md)
 
@@ -20,3 +20,13 @@ October 2023 // Talking to KCL MSc students about the ADHD Remote Technology pro
 May 2023 // First time showing the ART-CARMA medication response data to those outside of the TIMESPAN consortium. Loved showcasing how much data over the 12 months each participant is in the study for. ADHD World Congress - thanks for having me!
 
 * * *
+
+![alt text](image.png)
+
+September 2022 // Great poster session full of interesting discussions at the Eunethydis annual meeting
+
+* * *
+
+![alt text](image-1.png)
+
+July 2022 // A fantastic morning speaking and listening to the other talks at the CANDAL seminar series on #digitaltechnologies
